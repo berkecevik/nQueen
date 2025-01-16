@@ -21,9 +21,3 @@ The genetic algorithm uses evolutionary principles to find solutions:
 3. **Selection, Crossover, Mutation**: Iteratively improves the population to converge toward valid solutions.
 4. **Stopping Condition**: Ends once a valid solution is found or after a specified number of generations.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nqueens-solver.git
-   cd nqueens-solver
